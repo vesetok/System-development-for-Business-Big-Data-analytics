@@ -71,4 +71,4 @@ System Development for Business Big Data Analytics
 ---
 
 ## Acknowledgments
-This work demonstrates the integration of data analytics, visualization, and business intelligence into a unified system designed for **decision support and performance optimization** in corporate environments.
+This work demonstrates the integration of data analytics, visualization and business intelligence into a unified system designed for **decision support and performance optimization** in corporate environments.
