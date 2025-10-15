@@ -1,0 +1,11 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,City,State,Country,Postal Code,Market,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Shipping Cost,Order Priority
+1,US-2019-874321,12-03-2022,15-03-2022,Standard Class,RH-14532,John Smith,Consumer,New York,New York,United States,10001,US,East,TEC-AC-10004567,Technology,Accessories,Plantronics CS520,350.50,2,0.10,35.05,75.50,High
+2,CA-2018-234567,05-06-2021,08-06-2021,Second Class,RH-23847,Emily Brown,Corporate,Toronto,Ontario,Canada,M5H 2N2,CA,East,TEC-AC-10009876,Technology,Phones,Jabra Evolve 40,220.75,1,0.05,11.04,50.00,Medium
+3,DE-2020-987654,21-11-2021,25-11-2021,First Class,RH-34218,Max M?ller,Consumer,Berlin,Berlin,Germany,10115,DE,Central,TEC-AC-10003456,Technology,Accessories,Logitech H800,120.90,3,0.15,18.14,30.00,Critical
+4,FR-2019-456789,10-02-2022,13-02-2022,Same Day,RH-45632,Claire Dubois,Home Office,Paris,?le-de-France,France,75001,FR,Central,TEC-AC-10005678,Technology,Phones,Sennheiser MB Pro 1,450.00,2,0.20,90.00,100.50,High
+5,GB-2021-123456,15-08-2022,18-08-2022,Standard Class,RH-56789,Oliver Jones,Consumer,London,England,United Kingdom,EC1A 1BB,GB,East,TEC-AC-10007654,Technology,Accessories,Plantronics Voyager 5200,310.25,1,0.05,15.51,60.75,Medium
+6,AU-2020-987321,02-12-2021,05-12-2021,Second Class,RH-67890,Sophia Taylor,Corporate,Sydney,New South Wales,Australia,2000,AU,East,TEC-AC-10006543,Technology,Phones,Jabra Evolve 75,500.00,2,0.10,50.00,120.00,Critical
+7,JP-2019-543210,20-07-2021,23-07-2021,First Class,RH-78901,Haruto Tanaka,Consumer,Tokyo,Tokyo,Japan,100-0001,JP,East,TEC-AC-10003210,Technology,Accessories,Logitech H600,200.00,1,0.05,10.00,40.00,High
+8,BR-2021-654321,11-09-2022,14-09-2022,Same Day,RH-89012,Ana Silva,Home Office,S?o Paulo,S?o Paulo,Brazil,01000-000,BR,South,TEC-AC-10009821,Technology,Phones,Sennheiser MB Pro 2,380.00,2,0.15,57.00,95.00,Medium
+9,IN-2020-321654,08-01-2022,11-01-2022,Standard Class,RH-90123,Rahul Kumar,Consumer,Mumbai,Maharashtra,India,400001,IN,West,TEC-AC-10008765,Technology,Accessories,Plantronics CS520,290.00,1,0.10,29.00,55.00,Critical
+10,ZA-2019-789123,17-04-2021,20-04-2021,Second Class,RH-01234,Liam Nkosi,Corporate,Cape Town,Western Cape,South Africa,8001,ZA,South,TEC-AC-10004321,Technology,Phones,Jabra Evolve 65,310.00,2,0.20,62.00,70.00,High
